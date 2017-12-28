@@ -2,10 +2,7 @@ import re
 import decorator
 import numpy as np
 import pandas as pd
-try:
-    import cPickle as pickle
-except ImportError:
-    import pickle
+import pickle
 
 
 def _memoize(func, *args, **kw):
