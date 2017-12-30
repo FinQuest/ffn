@@ -3,7 +3,7 @@
 .. image:: https://travis-ci.org/FinQuest/bt.svg?branch=master
     :target: https://travis-ci.org/FinQuest/ffn
 
-.. image:: https://codecov.io/gh/FinQuest/bt/branch/master/graph/badge.svg
+.. image:: https://codecov.io/gh/FinQuest/ffn/branch/master/graph/badge.svg
     :target: https://codecov.io/gh/FinQuest/ffn
 
 ffn - Financial Functions for Python
